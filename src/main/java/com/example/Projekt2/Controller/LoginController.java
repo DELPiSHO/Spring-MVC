@@ -6,6 +6,7 @@ import com.example.Projekt2.Domain.Person;
 import com.example.Projekt2.Domain.PersonState;
 import com.example.Projekt2.Repository.PersonRepository;
 import lombok.extern.slf4j.Slf4j;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;
@@ -32,7 +33,6 @@ public class LoginController {
 
     @Autowired
     PersonRepository personRepository;
-
 
     @GetMapping
     public String login(Model model){
