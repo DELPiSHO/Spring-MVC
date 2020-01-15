@@ -2,6 +2,7 @@ package com.example.Projekt2.Domain;
 
 import lombok.Data;
 
+
 @Data
 public class CurrentPerson {
     private Person currentPerson;
