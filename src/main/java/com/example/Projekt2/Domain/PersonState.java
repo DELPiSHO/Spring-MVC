@@ -3,6 +3,7 @@ package com.example.Projekt2.Domain;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+
 @Data
 @NoArgsConstructor
 public class PersonState {
