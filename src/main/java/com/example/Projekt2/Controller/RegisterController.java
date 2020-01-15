@@ -52,5 +52,4 @@ public class RegisterController {
         //javaMailSender.send(mailMessage);
         return "redirect:/loginForm";
     }
-
 }
