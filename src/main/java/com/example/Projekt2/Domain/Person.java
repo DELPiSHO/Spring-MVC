@@ -3,6 +3,7 @@ package com.example.Projekt2.Domain;
 import lombok.Data;
 import javax.persistence.*;
 import javax.validation.constraints.*;
+
 import com.opencsv.bean.*;
 import java.util.Objects;
 
