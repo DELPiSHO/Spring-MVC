@@ -35,6 +35,7 @@ public class AdminController {
     @Autowired
     @Qualifier("personState")
     private PersonState personState;
+    
     @Autowired
     @Qualifier("currentperson")
     private CurrentPerson currentPerson;
