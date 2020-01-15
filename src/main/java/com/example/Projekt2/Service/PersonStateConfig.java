@@ -5,7 +5,6 @@ import com.example.Projekt2.Domain.PersonState;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-
 @Configuration
 public class PersonStateConfig {
     @Bean
