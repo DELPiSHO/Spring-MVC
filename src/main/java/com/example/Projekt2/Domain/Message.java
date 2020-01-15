@@ -43,6 +43,7 @@ public class Message {
                 Objects.equals(content, message.content);
     }
 
+    
     public String getContent() {
         return content;
     }
