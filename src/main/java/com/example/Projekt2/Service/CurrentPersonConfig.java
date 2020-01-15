@@ -6,6 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 public class CurrentPersonConfig {
+    
     @Bean
     public CurrentPerson currentperson(){return new CurrentPerson();}
 }
