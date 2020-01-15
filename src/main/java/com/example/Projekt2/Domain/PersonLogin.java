@@ -2,7 +2,6 @@ package com.example.Projekt2.Domain;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Qualifier;
-
 import javax.persistence.Table;
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
