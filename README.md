@@ -2,9 +2,8 @@
 
 <img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
 <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5.0-blueviolet?label=OpenCV">
-<img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
-<img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
-
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgreSQL-9.4-blue">
+<img alt="r2dbc" src="https://img.shields.io/badge/r2dbc-0.8.0.RELEASE-ff69b4">
 
 ## Built With
 
@@ -13,7 +12,7 @@
 * [PostgreSQL](https://www.postgresql.org/) - A powerful, open source object-relational database system with over 30 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
 * [R2DBC](https://r2dbc.io/) - The Reactive Relational Database Connectivity (R2DBC) project brings reactive programming APIs to relational databases.
 
-##ToDo List
+## ToDo List
 
 :heavy_check_mark: Complete all HTML and CSS files <br>
 :heavy_check_mark: Home Page <br> 
