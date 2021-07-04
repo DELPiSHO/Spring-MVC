@@ -1,7 +1,7 @@
 ## MVC using Framework Spring boot
 
 <img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
-<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5.0-blueviolet?label=Spring">
+<img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5.0-blueviolet?label=OpenCV">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
 <img alt="Spring" src="https://img.shields.io/badge/Spring-2.2.2.RELEASE-brightgreen?label=Spring">
 
